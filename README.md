@@ -8,6 +8,8 @@ Select equal size samples from NY voters where age and gender are equal propensi
     voters with the same age and female to male ratio
     as rural voters
 
+    For input see votrs.csv in theis repo 
+
     github
     http://tinyurl.com/yc5w9t4d
     https://github.com/rogerjdeangelis/utl-select-equal-size-samples-from-NY-voters-where-age-and-gender-are-equal-propensity-scoring

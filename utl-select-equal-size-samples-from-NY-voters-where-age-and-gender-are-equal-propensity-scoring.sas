@@ -6,6 +6,8 @@ We want to adjust the urban vote count for rural
 voters with the same age and female to male ratio
 as rural voters
 
+see voters.csv in this repo for input
+
 github
 http://tinyurl.com/yc5w9t4d
 https://github.com/rogerjdeangelis/utl-select-equal-size-samples-from-NY-voters-where-age-and-gender-are-equal-propensity-scoring
